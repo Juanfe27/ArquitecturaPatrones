@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/JuanFelipe/Documents/NetBeansProjects/PatronesDisenio/src/patronDecorador/componentes/Cafe.java</file>
+            <file>file:/C:/Users/JuanFelipe/Documents/NetBeansProjects/PatronesDisenio/src/patronObservador/sujetos/Subject.java</file>
+            <file>file:/C:/Users/JuanFelipe/Documents/NetBeansProjects/PatronesDisenio/src/patronObservador/observadores/User.java</file>
+            <file>file:/C:/Users/JuanFelipe/Documents/NetBeansProjects/PatronesDisenio/src/patronDecorador/componentes/Capuccino.java</file>
+            <file>file:/C:/Users/JuanFelipe/Documents/NetBeansProjects/PatronesDisenio/src/patronDecorador/decoradores/Chocolate.java</file>
+            <file>file:/C:/Users/JuanFelipe/Documents/NetBeansProjects/PatronesDisenio/src/patronDecorador/componentes/Latte.java</file>
+            <file>file:/C:/Users/JuanFelipe/Documents/NetBeansProjects/PatronesDisenio/src/patronObservador/sujetos/Channel.java</file>
+            <file>file:/C:/Users/JuanFelipe/Documents/NetBeansProjects/PatronesDisenio/src/patronObservador/Client.java</file>
+            <file>file:/C:/Users/JuanFelipe/Documents/NetBeansProjects/PatronesDisenio/src/patronDecorador/decoradores/Chantilly.java</file>
+            <file>file:/C:/Users/JuanFelipe/Documents/NetBeansProjects/PatronesDisenio/src/patronObservador/observadores/Observer.java</file>
+            <file>file:/C:/Users/JuanFelipe/Documents/NetBeansProjects/PatronesDisenio/src/patronDecorador/Main.java</file>
+            <file>file:/C:/Users/JuanFelipe/Documents/NetBeansProjects/PatronesDisenio/src/patronDecorador/decoradores/Adicion.java</file>
+            <file>file:/C:/Users/JuanFelipe/Documents/NetBeansProjects/PatronesDisenio/src/patronDecorador/decoradores/Ron.java</file>
+        </group>
+    </open-files>
+</project-private>
